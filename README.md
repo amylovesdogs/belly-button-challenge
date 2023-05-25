@@ -15,5 +15,6 @@ The dashboard allows selection of a test subject and then displays the following
 * The y axis maps the population size
 * Each bubble is a different color
 * Each bubble is the size of the population size
+* Upon hover, the list of bacteria present in the sample displays
 4. A gauge reflecting the weekly washing frequency of the test subject
 
