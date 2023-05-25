@@ -18,3 +18,6 @@ The dashboard allows selection of a test subject and then displays the following
 * Upon hover, the list of bacteria present in the sample displays
 4. A gauge reflecting the weekly washing frequency of the test subject
 
+Credit for the random hex color code generator goes to: https://www.educative.io/answers/how-to-generate-a-random-color-in-javascript
+
+
