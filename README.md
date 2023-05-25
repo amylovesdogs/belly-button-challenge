@@ -4,7 +4,7 @@ DU Data Analysis Module 14 Belly Button Biodiversity Dashboard
 ## Dashboard for Belly Button Biodiversity
 This app uses javascript and HTML to make a dashboard of the belly button bacteria data found at
 https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
-The dashboard can be found at **https://amylovesdogs.github.io/https://amylovesdogs.github.io/belly-button-challenge/index.html**
+The dashboard can be found at **/https://amylovesdogs.github.io/belly-button-challenge/index.html**
 
 ## Dashboard components
 The dashboard allows selection of a test subject and then displays the following for the test subject:
